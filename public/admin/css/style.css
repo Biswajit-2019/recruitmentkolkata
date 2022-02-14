@@ -1,0 +1,112 @@
+* {
+margin: 0;
+}
+
+html, body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+body {
+	border: 0;
+    font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #555555;
+	background:#FFF;
+}
+a{color: #6D37B0;}
+a:visited, a:active { text-decoration: none; color:#6D37B0; }
+a:hover { color: #8D8D8D; text-decoration: none;}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#body{ 
+	width: 1004px;
+    margin: 0 auto;
+    max-width: 100%;
+	padding:20px 0 70px 0;
+	height: 100%;
+	
+}
+article{
+	width:100%;
+	min-height:400px;
+}
+nav{ margin:0 auto; width:100%;text-align:center; margin-bottom:80px;}
+.menus{padding:2px; margin:1px; border-bottom:#006; text-decoration:none;}
+.mainTitle{ font: 30px "Trebuchet MS", Arial, Helvetica, sans-serif; text-align:center; padding-bottom:20px; text-decoration:underline;}
+h3{ font: 20px "Trebuchet MS", Arial, Helvetica, sans-serif; text-align:center; padding-bottom:10px;}
+footer {
+    position: relative;
+    bottom: 0;
+	left:0;
+    height: 75px;
+    width: 100%;
+	background:#CCC;
+	color:#000;
+}
+.copyright{float:left;padding:20px 0 0 20px; width:50%;  }
+.footerlogo{float:right; width:200px; height:47px; margin:10px 10px 0 0; text-align:center;}
+.error{width:100%; margin:2px 0; border:2px solid #F00;padding:2px; color:#000;}
+.title{ font-size:20px; text-align:center; padding:10px;}
+#add_menu {/*border:1px solid #999999;*/ width:100%; text-align:center;}
+#tableshow2 {border:1px solid #999999; width:100%; text-align:center;}
+#tableshow2 th{border:1px solid #3d3d3d; width:100%; text-align:center; font-weight:bold}
+#tableshow2 tr:nth-child(odd) td { background-color:#FDFDFD } /*odd*/
+#tableshow2 tr:nth-child(even) td { background-color:#F7F7F7 } /* even*/
+
+#tableshow {border:1px solid #999999; width:100%; text-align:center;}
+#tableshow th{border:1px solid #3d3d3d; width:100%; text-align:center; font-weight:bold}
+#tableshow tr:nth-child(odd) td { background-color:#FDFDFD } /*odd*/
+#tableshow tr:nth-child(even) td { background-color:#F7F7F7 } /* even*/
+
+#tableForm {border:1px solid #999999; margin:0 auto;width:650px; margin-top:20px; padding:10px;}
+#tableForm td{ padding:5px 0; } /*odd*/
+.formLeft{width:150px; text-align:left;}
+.formRight{width:150px; text-align:center;}
+.textboxes{ width:220px; border:1px solid #000; height:20px; }
+.textboxes1{ width:130px; border:1px solid #000; height:20px; }
+
+.required{color:#F00;}
+.shedule-form p {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.add-schedule {
+    margin: 0 auto;
+    width: 560px;
+}
+
+/****21-03-2014 Added Css**************/
+nav ul { padding:0px; margin:0px; list-style:none; text-align:center;}
+nav ul li { display:inline;}
+
+.tinynav { display: none; width:280px; margin:0 auto;}
+
+@media screen and (max-width: 1023px) {}
+
+@media screen and (max-width: 767px) {
+#body { width:auto; margin:0 5px;}
+.tinynav { display: block; }
+#nav { display:none !important; }
+#tableshow tr td { padding:2px 3px;}
+#tableshow2 tr td { padding:2px 3px;}
+#tableForm { width:96%; padding:2%;}
+	}
+
+@media screen and (max-width: 480px) {
+#tableshow button strong { font-size:10px;}
+#tableForm { width:96%; padding:2%;}
+.mainTitle { font-size:24px;}
+h1 { font-size:26px;}
+	}
+	
+@media screen and (max-width: 320px) {
+#tableshow button strong { font-size:9px;}
+#tableshow button { padding:0px;}
+#tableshow2 tr td { padding:1px 2px;}
+#tableshow tr td { padding:1px 0px;}
+.mainTitle { font-size:22px;}
+#tableForm { width:96%; padding:2%;}
+	}

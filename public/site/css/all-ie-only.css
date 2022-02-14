@@ -1,0 +1,33 @@
+body.highcontrast .left-menu ul li{
+	background:#000;
+	}
+.left-menu ul li.blue{
+	background-image: url(../images/lbg1.png);
+    background-position: left center, left top;
+    background-repeat: no-repeat;
+	}
+.left-menu ul li.red{
+	background-image: url(../images/red.png);
+    background-position: left center, left top;
+    background-repeat: no-repeat;
+	}
+.left-menu ul li.orange{
+	background-image: url(../images/orange.png);
+    background-position: left center, left top;
+    background-repeat: no-repeat;
+	}
+.left-menu ul li.green{
+	background-image: url(../images/green.png);
+    background-position: left center, left top;
+    background-repeat: no-repeat;
+	}
+.left-menu ul li.yellow{
+	background-image: url(../images/yellow.png);
+    background-position: left center, left top;
+    background-repeat: no-repeat;
+	}
+.left-menu ul li.purple{
+	background-image: url(../images/purple.png);
+    background-position: left center, left top;
+    background-repeat: no-repeat;
+	}

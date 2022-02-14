@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
+-->
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>CKEditor Sample</title>
+	<script src="../ckeditor.js"></script>
+	<!-- <script src="js/sample.js"></script> -->
+	<link rel="stylesheet" href="css/samples.css">
+	<link rel="stylesheet" href="toolbarconfigurator/lib/codemirror/neo.css">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body id="main">
+<textarea cols="10" id="editor1" name="editor1" rows="10" data-sample-short>&lt;p&gt;This is some &lt;strong&gt;sample text&lt;/strong&gt;. You are using &lt;a href=&quot;https://ckeditor.com/&quot;&gt;CKEditor&lt;/a&gt;.&lt;/p&gt;</textarea>
+  <script>
+    CKEDITOR.replace('editor1', {
+      height: 300,
+     filebrowserUploadMethod : 'form',
+     
+    filebrowserUploadUrl: '/fileupload.php?type=image',
+    /* filebrowserUploadUrl: "/fileupload.php?type=file",
+     filebrowserImageUploadUrl: "/fileupload.php?type=image",*/
+
+      // Configure your file manager integration. This example uses CKFinder 3 for PHP.
+     /* filebrowserBrowseUrl: '/apps/ckfinder/3.4.5/ckfinder.html',
+      filebrowserImageBrowseUrl: '/apps/ckfinder/3.4.5/ckfinder.html?type=Images',
+      filebrowserUploadUrl: '/apps/ckfinder/3.4.5/core/connector/php/connector.php?command=QuickUpload&type=Files',
+      filebrowserImageUploadUrl: '/apps/ckfinder/3.4.5/core/connector/php/connector.php?command=QuickUpload&type=Images'*/
+    });
+  </script>
+
+</body>
+</html>

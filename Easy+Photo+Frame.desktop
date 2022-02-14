@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+X-Created-By=cxoffice-e794ead3-3ae5-4b90-a1ea-496cdfce535b
+Icon=cxmenu-cxoffice-e794ead3-3ae5-4b90-a1ea-496cdfce535b-5803_EasyPhotoFrame.0
+Exec="/home/pranay/.cxoffice/Picasa_3.9/desktopdata/cxmenu/Desktop.C^5E3A_users_crossover_Desktop/Easy+Photo+Frame.lnk" %u
+Name=Easy Photo Frame

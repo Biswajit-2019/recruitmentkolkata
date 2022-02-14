@@ -1,0 +1,90 @@
+[02-Sep-2015 08:37:40 America/Chicago] PHP Fatal error:  Call to undefined method Admin_model::inserData() in /home/marketin/public_html/sameerkol/application/controllers/admin/Cms_page.php on line 34
+[02-Sep-2015 08:38:35 America/Chicago] PHP Fatal error:  Call to undefined method Admin_model::inserData() in /home/marketin/public_html/sameerkol/application/controllers/admin/Cms_page.php on line 34
+[04-Sep-2015 04:59:35 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 9
+[04-Sep-2015 05:00:31 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 9
+[04-Sep-2015 05:01:39 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 9
+[04-Sep-2015 05:02:04 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 8
+[04-Sep-2015 05:02:07 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 8
+[04-Sep-2015 05:02:08 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 8
+[04-Sep-2015 05:02:09 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 8
+[04-Sep-2015 05:09:43 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 9
+[04-Sep-2015 05:09:46 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 9
+[04-Sep-2015 05:09:46 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 9
+[04-Sep-2015 05:10:35 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 8
+[04-Sep-2015 05:10:39 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 8
+[04-Sep-2015 05:10:59 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 10
+[04-Sep-2015 05:14:45 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 10
+[04-Sep-2015 05:21:21 America/Chicago] PHP Fatal error:  Call to undefined method Admin_model::getCounts() in /home/marketin/public_html/sameerkol/application/controllers/admin/Cms_page.php on line 22
+[04-Sep-2015 05:24:42 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 20
+[04-Sep-2015 05:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/marketin/public_html/sameerkol/application/views/admin/cms-listing.php on line 21
+[04-Sep-2015 05:32:53 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/marketin/public_html/sameerkol/application/views/admin/cms-listing.php on line 21
+[04-Sep-2015 05:57:06 America/Chicago] PHP Fatal error:  Call to undefined function pagination() in /home/marketin/public_html/sameerkol/application/views/admin/cms-listing.php on line 20
+[05-Sep-2015 02:04:32 America/Chicago] PHP Fatal error:  Call to a member function data() on a non-object in /home/marketin/public_html/sameerkol/application/controllers/admin/All_website.php on line 49
+[05-Sep-2015 02:05:46 America/Chicago] PHP Fatal error:  Call to a member function data() on a non-object in /home/marketin/public_html/sameerkol/application/controllers/admin/All_website.php on line 49
+[07-Sep-2015 01:41:06 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/marketin/public_html/sameerkol/application/models/Admin_model.php on line 193
+[07-Sep-2015 01:43:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/marketin/public_html/sameerkol/application/controllers/admin/Cms_page.php on line 78
+[09-Sep-2015 08:33:16 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[09-Sep-2015 08:36:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[09-Sep-2015 08:51:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 01:16:41 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 01:50:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 05:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 05:36:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 05:41:30 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 05:42:15 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 05:44:26 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 05:49:05 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[10-Sep-2015 05:57:40 America/Chicago] PHP Fatal error:  Call to a member function getAll() on a non-object in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Cms_page.php on line 20
+[10-Sep-2015 06:01:24 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[11-Sep-2015 07:01:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/marketin/public_html/sameerkol/application/controllers/admin/All_website.php on line 113
+[11-Sep-2015 07:03:26 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/marketin/public_html/sameerkol/application/controllers/admin/All_website.php on line 113
+[11-Sep-2015 07:03:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/marketin/public_html/sameerkol/application/controllers/admin/All_website.php on line 113
+[14-Sep-2015 01:49:44 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/marketin/public_html/sameerkol/system/database/DBEXT' (include_path='.:/opt/php54/lib/php') in /home/marketin/public_html/sameerkol/application/config/routes.php on line 59
+[14-Sep-2015 01:50:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/marketin/public_html/sameerkol/system/database/DBEXT' (include_path='.:/opt/php54/lib/php') in /home/marketin/public_html/sameerkol/application/config/routes.php on line 59
+[14-Sep-2015 01:50:49 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/marketin/public_html/sameerkol/system/database/DBEXT' (include_path='.:/opt/php54/lib/php') in /home/marketin/public_html/sameerkol/application/config/routes.php on line 59
+[14-Sep-2015 01:51:24 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/marketin/public_html/sameerkol/system/database/DBEXT' (include_path='.:/opt/php54/lib/php') in /home/marketin/public_html/sameerkol/application/config/routes.php on line 59
+[14-Sep-2015 01:51:31 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/marketin/public_html/sameerkol/system/database/DBEXT' (include_path='.:/opt/php54/lib/php') in /home/marketin/public_html/sameerkol/application/config/routes.php on line 59
+[14-Sep-2015 02:02:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/marketin/public_html/sameerkol/system/database/DBEXT' (include_path='.:/opt/php54/lib/php') in /home/marketin/public_html/sameerkol/application/config/routes.php on line 59
+[14-Sep-2015 02:48:41 America/Chicago] PHP Fatal error:  Call to undefined method Cms::generateCaptcha() in /home/marketin/public_html/sameerkol/application/controllers/Cms.php on line 12
+[16-Sep-2015 07:30:12 America/Chicago] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/marketin/public_html/sameerkol/application/models/Admin_model.php on line 39
+[16-Sep-2015 07:30:15 America/Chicago] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/marketin/public_html/sameerkol/application/models/Admin_model.php on line 39
+[18-Sep-2015 00:53:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/marketin/public_html/sameerkol/application/views/includes/header.php on line 112
+[18-Sep-2015 07:06:46 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:07:04 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:19:36 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:26:13 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:27:07 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:31:38 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:33:58 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:34:02 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:37:41 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[18-Sep-2015 07:39:36 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[19-Sep-2015 01:38:15 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[22-Sep-2015 07:17:41 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/marketin/public_html/sameerkol/application/views/feedback.php on line 41
+[24-Sep-2015 03:33:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Cms_page.php on line 85
+[24-Sep-2015 04:56:20 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[24-Sep-2015 05:11:58 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[24-Sep-2015 05:12:07 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[24-Sep-2015 05:12:38 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[24-Sep-2015 05:20:34 America/Chicago] PHP Fatal error:  Call to undefined function phpdefined() in /home/marketin/public_html/sameerkol/application/controllers/admin/hindi/Banner.php on line 1
+[25-Sep-2015 00:38:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 48
+[25-Sep-2015 00:38:25 America/Chicago] PHP Parse error:  syntax error, unexpected '-', expecting '}' in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 89
+[25-Sep-2015 00:38:27 America/Chicago] PHP Parse error:  syntax error, unexpected '-', expecting '}' in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 89
+[25-Sep-2015 00:38:29 America/Chicago] PHP Parse error:  syntax error, unexpected '-', expecting '}' in /home/marketin/public_html/sameerkol/application/views/admin/includes/function.php on line 89
+[25-Sep-2015 03:29:10 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/marketin/public_html/sameerkol/application/controllers/Search.php on line 17
+[25-Sep-2015 03:30:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/marketin/public_html/sameerkol/application/controllers/Search.php on line 17
+[25-Sep-2015 03:30:44 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/marketin/public_html/sameerkol/application/controllers/Search.php on line 17
+[25-Sep-2015 03:31:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/marketin/public_html/sameerkol/application/controllers/Search.php on line 17
+[25-Sep-2015 08:13:17 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/views/hindi/includes/header.php on line 162
+[28-Sep-2015 05:35:15 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/marketin/public_html/sameerkol/application/views/search-view.php on line 15
+[28-Sep-2015 05:35:34 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/marketin/public_html/sameerkol/application/views/search-view.php on line 15
+[01-Oct-2015 00:21:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/marketin/public_html/sameerkol/application/views/includes/header.php on line 173
+[01-Oct-2015 00:23:28 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/views/includes/header.php on line 173
+[01-Oct-2015 00:45:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/views/includes/header.php on line 158
+[01-Oct-2015 07:52:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'Print' (T_PRINT), expecting identifier (T_STRING) in /home/marketin/public_html/sameerkol/application/controllers/Print.php on line 2
+[01-Oct-2015 07:52:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'Print' (T_PRINT), expecting identifier (T_STRING) in /home/marketin/public_html/sameerkol/application/controllers/Print.php on line 2
+[01-Oct-2015 07:53:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/marketin/public_html/sameerkol/application/controllers/Print.php on line 2
+[01-Oct-2015 07:53:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'Print' (T_PRINT), expecting identifier (T_STRING) in /home/marketin/public_html/sameerkol/application/controllers/Print.php on line 2
+[01-Oct-2015 07:53:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'Print' (T_PRINT), expecting identifier (T_STRING) in /home/marketin/public_html/sameerkol/application/controllers/Print.php on line 2
+[01-Oct-2015 07:53:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'Print' (T_PRINT), expecting identifier (T_STRING) in /home/marketin/public_html/sameerkol/application/controllers/Print.php on line 2
+[06-Oct-2015 03:43:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/marketin/public_html/sameerkol/application/views/includes/header.php on line 109

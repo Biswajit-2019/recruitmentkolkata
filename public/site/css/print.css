@@ -1,0 +1,42 @@
+body{
+	background:#fff;
+	}
+.top-navbar{
+	display:none !important;
+	}
+.banner-bg{
+	display:none !important;
+	}
+.section-bg{
+	background:#fff !important;
+	}
+.left-section, .print{
+	display:none !important;
+	}
+.right-section{
+	margin-left:0 !important;
+	width:100% !important;
+	background:#fff !important;
+	}
+body.highcontrast a{
+	color:#007fd6;
+	}
+body.highcontrast .right-section h1{
+	background:#d9d9d9;
+	border-bottom:none;
+	color:#3954a3;
+	}
+.access-option li a{
+	color:#fff;
+	}
+body.highcontrast .hindi-ver a{
+    background:#d9d9d9;
+	}
+body.highcontrast p, body.highcontrast li, body.highcontrast h1, body.highcontrast h2, body.highcontrast h3, body.highcontrast h4, body.highcontrast h5{
+	color:#4a4a4a;
+	}
+.footer-section p{
+	color:#fff;
+	}
+
+

@@ -1,0 +1,24 @@
+
+
+@font-face {
+  font-family: 'Devanagari-New-Normal';
+    src:  url('Devanagari-New-Normal.ttf.woff') format('woff'),
+    url('Devanagari-New-Normal.ttf.svg#Devanagari-New-Normal') format('svg'),
+    url('Devanagari-New-Normal.ttf.eot'),
+    url('Devanagari-New-Normal.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'agranormal';
+    src: url('agra-webfont.eot');
+    src: url('agra-webfont.eot?#iefix') format('embedded-opentype'),
+         url('agra-webfont.woff2') format('woff2'),
+         url('agra-webfont.woff') format('woff'),
+         url('agra-webfont.ttf') format('truetype'),
+         url('agra-webfont.svg#agranormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
